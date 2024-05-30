@@ -48,7 +48,9 @@
 }
 
 /* deco */
-
+* {
+  box-sizing: border-box;
+}
 body {
   padding: 2em;
   font-size: 1.6em;
